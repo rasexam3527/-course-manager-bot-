@@ -23,5 +23,5 @@ app = Client(
 )
 
 print("✅ Course Manager Bot Started...")
-
+print(app.me)
 app.run()
